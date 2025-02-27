@@ -34,7 +34,7 @@ const login = async (req, res) => {
         if (!isMatch) return res.status(400).json({ message: 'Invalid email or password', success: false });
 
         const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1d' });
-        res.cookie('token',token);
+        // res.cookie('token',token);
         res.json({ message: 'Logged in successfully', success: true, token });
 
     } catch (error) {
