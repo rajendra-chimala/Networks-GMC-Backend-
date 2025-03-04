@@ -1,2 +1,15 @@
 # Networks-GMC-Backend-
 Backend of Social media application Network GMC
+# User Routes
+* User Signup
+* User Login
+* User Logout
+
+# Post Routes
+* Create Post
+* Delete Post By Post Id.
+* Edit Post By Id
+* Get All Posts
+* Get Post By Id
+
+#
