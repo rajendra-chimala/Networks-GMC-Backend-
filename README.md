@@ -12,4 +12,10 @@ Backend of Social media application Network GMC
 * Get All Posts
 * Get Post By Id
 
-#
+# Like Routes
+* Post Like
+* Get Like By Id
+
+# Follow Routes
+* Follow
+* Unfollow
