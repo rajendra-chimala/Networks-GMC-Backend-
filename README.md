@@ -19,3 +19,10 @@ Backend of Social media application Network GMC
 # Follow Routes
 * Follow
 * Unfollow
+
+# Comment Routes
+* Comment
+* Delete Comment
+* Edit Comment By Id
+* Get Comments By Post ID
+* Get Comment By Comment Id
